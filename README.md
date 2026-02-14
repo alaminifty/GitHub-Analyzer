@@ -57,7 +57,4 @@ The footer includes a promotional CTA linking to:
 **SEO Services:**  
 https://alaminifty.com/seo-services/
 
----
-
-## 📂 Project Structure
 
